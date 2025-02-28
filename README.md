@@ -21,10 +21,10 @@ This is a Telegram bot that can track any Solana wallet in real time, providing 
 
 ## Tech Stack
 
- 🌐 Node.JS     | JavaScript runtime built on Chrome’s V8 engine. 
- 📘 TypeScript  | Superset of JavaScript for type safety.      
- 📊 Prisma & Pulse | ORM and real-time database logging system.  
- 🪙 Solana Web3.js | Solana's JavaScript API for interacting with the blockchain. 
+ - Node.JS     | JavaScript runtime built on Chrome’s V8 engine. 
+ - TypeScript  | Superset of JavaScript for type safety.      
+ - Prisma & Pulse | ORM and real-time database logging system.  
+ - Solana Web3.js | Solana's JavaScript API for interacting with the blockchain. 
 
 
 ## Contact
