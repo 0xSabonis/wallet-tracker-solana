@@ -19,27 +19,13 @@ This is a Telegram bot that can track any Solana wallet in real time, providing 
 
 
 
-## Built With
+## Tech Stack
 
-| Technology      | Description                                  |
-|-----------------|----------------------------------------------|
-| 🌐 Node.JS     | JavaScript runtime built on Chrome’s V8 engine. |
-| 📘 TypeScript  | Superset of JavaScript for type safety.      |
-| 📊 Prisma & Pulse | ORM and real-time database logging system.  |
-| 🪙 Solana Web3.js | Solana's JavaScript API for interacting with the blockchain. |
+ 🌐 Node.JS     | JavaScript runtime built on Chrome’s V8 engine. 
+ 📘 TypeScript  | Superset of JavaScript for type safety.      
+ 📊 Prisma & Pulse | ORM and real-time database logging system.  
+ 🪙 Solana Web3.js | Solana's JavaScript API for interacting with the blockchain. 
 
-
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-Follow these simple steps to set up Handi Cat locally on your machine.
-
-### Prerequisites
-
-- **Node version 14.x**
-
-<!-- CONTACT -->
 
 ## Contact
-  Telegram | [Dogewhiz](https://t.me/dogewhiz)                             |
+  Telegram | [Dogewhiz](https://t.me/dogewhiz)                             
