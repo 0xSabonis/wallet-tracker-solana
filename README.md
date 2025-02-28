@@ -17,7 +17,7 @@ This is a Telegram bot that can track any Solana wallet in real time, providing 
 | 🤖 Quick buy links for tokens                       | Provides links to Solana trading bots for token purchases.    |
 | 🔗 Quick chart links for tokens                     | Provides links to Photon, GMGN, and Dex Screener charts.      |
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Built With
 
